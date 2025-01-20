@@ -1,4 +1,4 @@
-# Search Ghost 
+# Search Ghost
 
 Search Ghost help center, developer docs, tutorials, changelog, and publisher resources right from Raycast!
 
@@ -21,3 +21,7 @@ Ghost is a powerful app for professional publishers to create, share, and grow a
 [Learn more about Ghost &rarr;](https://ghost.org)
 
 [Ghost is open source. See the code &rarr;](https://github.com/tryghost/)
+
+# Copyright & license
+
+Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
